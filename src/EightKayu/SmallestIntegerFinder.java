@@ -1,3 +1,5 @@
+package EightKayu;
+
 import java.util.Arrays;
 
 public class SmallestIntegerFinder {
